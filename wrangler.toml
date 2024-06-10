@@ -1,1 +1,2 @@
 HUGO_ENV = "production"
+CF_PAGES_URL = "https://sophia.seiya-world.com"
