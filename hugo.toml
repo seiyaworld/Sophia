@@ -2,7 +2,3 @@ baseURL = 'https://sophia.seiya-world.com'
 languageCode = 'en-us'
 title = 'Seiya World'
 theme = 'hugo-theme-relearn'
-
-[module]
-  [[module.imports]]
-    path = 'github.com/McShelby/hugo-theme-relearn'
