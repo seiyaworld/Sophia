@@ -1,3 +1,6 @@
+name = "sophia"
+pages_build_output_dir = "./public"
+[vars]
 HUGO_ENV = "production"
-CF_PAGES_URL = "https://sophia-7sy.pages.dev"
+CF_PAGES_URL = "https://sophia.seiya-world.com"
 HUGO_VERSION = "0.124.1"
