@@ -1,0 +1,5 @@
+baseURL = 'https://sophia.seiya-world.com'
+languageCode = 'en-us'
+title = 'Seiya World'
+theme = 'hugo-theme-relearn'
+
