@@ -1,7 +1,7 @@
 +++
 title = 'Anime'
 date = 2024-06-10T20:18:05+09:00
-draft = true
+draft = false
 +++
 
 {{% notice style="secondary" title="Total" %}}
