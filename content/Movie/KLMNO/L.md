@@ -1,7 +1,7 @@
 +++
 title = 'L'
 date = 2024-06-13T11:45:33+09:00
-draft = true
+draft = false
 +++
 
 ## The Lost World: Jurassic World(ロストワールド/ジュラシック・パーク)

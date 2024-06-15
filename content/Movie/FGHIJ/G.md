@@ -1,7 +1,7 @@
 +++
 title = 'G'
 date = 2024-06-13T11:06:24+09:00
-draft = true
+draft = false
 +++
 
 ## Godzilla ゴジラ

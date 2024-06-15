@@ -1,7 +1,7 @@
 +++
 title = 'I'
 date = 2024-06-13T11:17:19+09:00
-draft = true
+draft = false
 +++
 
 ## 犬王(INU-OH)

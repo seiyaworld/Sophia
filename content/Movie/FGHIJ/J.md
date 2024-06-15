@@ -1,7 +1,7 @@
 +++
 title = 'J'
 date = 2024-06-13T11:29:27+09:00
-draft = true
+draft = false
 +++
 
 ## Jungle Run(ジャングル・ツアーズ)

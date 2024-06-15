@@ -1,7 +1,7 @@
 +++
 title = 'M'
 date = 2024-06-13T11:52:34+09:00
-draft = true
+draft = false
 +++
 
 

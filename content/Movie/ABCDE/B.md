@@ -1,7 +1,7 @@
 +++
 title = 'B'
 date = 2024-06-13T10:51:19+09:00
-draft = true
+draft = false
 +++
 
 ## 僕のヒーローアカデミア The MOVIE WORLD HEROES MISSION

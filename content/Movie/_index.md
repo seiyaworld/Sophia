@@ -1,7 +1,7 @@
 +++
 title = 'Movie'
 date = 2024-06-13T10:44:04+09:00
-draft = true
+draft = false
 +++
 
 ```

@@ -1,7 +1,7 @@
 +++
 title = 'GenshinImpact'
 date = 2024-06-14T11:06:39+09:00
-draft = true
+draft = false
 +++
 
 

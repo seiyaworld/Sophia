@@ -1,7 +1,7 @@
 +++
 title = 'Y'
 date = 2024-06-13T14:34:58+09:00
-draft = true
+draft = false
 +++
 
 ### 約束のネバーランド
