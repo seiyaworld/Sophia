@@ -4,9 +4,9 @@ date = 2024-06-13T11:29:27+09:00
 draft = false
 +++
 
-## Jungle Run(ジャングル・ツアーズ)
+## Jungle Run
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 ### Character
 アマンダ:アリソン・ゴルスク
@@ -14,13 +14,13 @@ draft = false
 ### PV
 [ようこそ！世界で一番危険なジャングルへ／予告編](https://youtu.be/oZBRE9yPHDE)
 
-## Jurassic Park(ジュラシック・パーク)
+## Jurassic Park
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
-## Jurassic ParkⅢ(ジュラシックパークⅢ)
+## Jurassic ParkⅢ
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 

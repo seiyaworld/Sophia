@@ -4,9 +4,18 @@ date = 2024-06-13T10:57:07+09:00
 draft = false
 +++
 
+## 劇場版 ダンジョンに出会いを求めるのは間違っているだろうかーオリオンの矢ー
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+## 劇場版デート・ア・ライブ 万由里ジャッジメント
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+
 ## Dune 砂の惑星
 ```
-日本語吹き替え版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 ### PV
 [US予告1](https://youtu.be/npl8ogM704A)\

@@ -6,9 +6,9 @@ draft = false
 
   
 
-### ナイル殺人事件 Death on the Nile
+## Death on the Nile
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
 ### PV

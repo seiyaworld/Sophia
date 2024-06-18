@@ -5,9 +5,9 @@ draft = false
 +++
 
 
-## Pacific Rim(パシフィック・リム)
+## Pacific Rim
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```  
 
 ### Character
@@ -21,10 +21,9 @@ draft = false
 [本予告 杉田智和吹替え版](https://youtu.be/4Vjy1P7j3ms)\
 [予告編](https://youtu.be/LIw5DFz0ObQ)
 
-## PAN ネバーランド、夢のはじまり
+## PAN
 ```
-字幕版視聴完了(AmazonPrime)
-特典映像(キャストインタビュー)視聴済み
+Completed watching the subtitle version & special cast interview(AmazonPrime).
 ```
 
 ### Character
@@ -43,9 +42,9 @@ draft = false
 
   
 
-## PlatForm(プラットフォーム)
+## PlatForm
 ```
-日本語版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
 ### PV
@@ -58,10 +57,22 @@ Imoguiri : Antonia San Juan\
 
   
 
-## プロメア(Promare)
+
+## Pokemon Detective Pikachu
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
+  
+### PV
+[予告①](https://www.youtube.com/watch?v=QiAaZ9kR7G4)
+
+
+
+## Promare
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+
 ### Character
 ガロ・ティモス(CV:松山ケンイチ):主人公\
 リオ・フォーティア(CV:早乙女太一):主人公

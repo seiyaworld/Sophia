@@ -4,9 +4,9 @@ date = 2024-06-13T11:06:24+09:00
 draft = false
 +++
 
-## Godzilla ゴジラ
+## Godzilla(2014)
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 ### PV
 [予告](https://youtu.be/hNxamY1anM0)\
@@ -19,9 +19,9 @@ Dr. Ishiro Serizawa : Ken Watanabe\
 Elle Brody : Elizabeth Olsen\
 Sandora Brody : Juliette Binoche\
 
-## Godzilla: King of the Monsters ゴジラ キング・オブ・モンスターズ
+## Godzilla: King of the Monsters
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 ### PV
 [予告](https://youtu.be/R5Swd7CWg1M)\
@@ -38,9 +38,9 @@ Madison Russell : Millie Boddy Brown
 
   
 
-## Godzilla vs. Kong ゴジラvsコング
+## Godzilla vs. Kong
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
   
 ### PV
@@ -60,7 +60,7 @@ Maja Simmons : Eiza Gonzalez\
 
 ## Grate Wall
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
 ### PV

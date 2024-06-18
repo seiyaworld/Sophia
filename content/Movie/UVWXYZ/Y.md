@@ -6,7 +6,7 @@ draft = false
 
 ### 約束のネバーランド
 ```
-日本語視聴完了(金曜ロードショー)
+Completed watching the Japanese version(金曜ロードショー).
 ```
 ### PV
 [予告](https://youtu.be/1oiXaPeXCbo)\

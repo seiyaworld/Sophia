@@ -7,7 +7,7 @@ draft = false
 
 ## かがみの孤城
 ```
-日本語視聴完了(金曜ロードショー)
+Completed watching the Japanese version(金曜ロードショー).
 ```
 
 ### Character
@@ -40,9 +40,9 @@ draft = false
 [優里『メリーゴーランド』Official Music Video](https://youtu.be/eWeSqrRk-gs)
 
   
-## Kong: Skull Island(キングコング: 骸骨島の巨神)
+## Kong: Skull Island
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
   
 ### PV

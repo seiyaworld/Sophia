@@ -4,9 +4,9 @@ date = 2024-06-13T11:17:19+09:00
 draft = false
 +++
 
-## 犬王(INU-OH)
+## INU-OH
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
   
 ### Character
@@ -21,10 +21,11 @@ draft = false
 [劇中歌「竜中将」歌詞付き映像](https://youtu.be/0rNBfHmbmAU)
 
 
-## Iron Man(アイアンマン)
+## Iron Man
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
+
 ### Character
 トニー・スターク:ロバート・ダウニー・Jr\
 ペッパー・ボッツ:グウィネス・パルトロー

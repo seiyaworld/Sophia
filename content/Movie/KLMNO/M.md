@@ -7,7 +7,7 @@ draft = false
 
 ## Matrix
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
 ### Character
@@ -25,7 +25,7 @@ draft = false
 
 ## Matrix Reloaded
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 ### Character
 Neo:Keanu Reeves\
@@ -34,31 +34,24 @@ Trinity:Laurence Fishburne
 
 ## Matrix REVOLUTIONS
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
 
 ## Matrix Resurrections
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
   
 ### PV
 [本予告](https://www.youtube.com/watch?v=8PwqzRR3Oo0)\
 [予告](https://www.youtube.com/watch?v=mBRWwAqJ--U)\
 
-## 名探偵ピカチュウ
+## Maze Runner
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
-  
-### PV
-[予告①](https://www.youtube.com/watch?v=QiAaZ9kR7G4)
 
-## Maze Runner メイズランナー
-```
-日本語版視聴完了(AmazonPrime)
-```  
 ### PV
 [予告編1](https://youtu.be/Q_ROrI3n1EY)\
 [特別映像（ランナーの掟）](https://youtu.be/rcZpgmiTf8k)\
@@ -69,9 +62,9 @@ Trinity:Laurence Fishburne
 [特別映像（メイキング・オブ・メイズ）](https://youtu.be/uTcyWjI6DhQ)\
 [特別映像（ナビゲーティング・ザ・メイズ）](https://youtu.be/Mf5jw97UcfM)\
 
-## Maze Runner: The Scorch Trials メイズランナー2 : 砂漠の迷宮
+## Maze Runner: The Scorch Trials
 ```
-日本語版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
   
 ### PV
@@ -85,9 +78,9 @@ Trinity:Laurence Fishburne
 [特別映像（杉田智和ナレーション付き）](https://youtu.be/CCdTARME8BA)\
 [特別映像（Dashner Set Visit）](https://youtu.be/CmxL3De3wrE)\
 
-## Maze Runner The Death Cure メイズランナー 最後の迷宮
+## Maze Runner The Death Cure
 ```
-日本語版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```  
 
 ### PV
@@ -101,8 +94,7 @@ Trinity:Laurence Fishburne
 [監督が熱く語る『メイズ・ランナー』シリーズ最終章](https://youtu.be/8QU9aLerUdI)
 ## MEG
 ```
-日本語視聴完了(AmazonPrime)
-特典映像(キャストインタビュー)視聴済み
+Completed watching the Japanese version & special movie of cast interview(AmazonPrime).
 ```
 
 ### Character
@@ -118,9 +110,9 @@ Trinity:Laurence Fishburne
   
   
 
-## モンスターズ/新種到来
+## Monsters: Dark Continent
 ```
-日本語版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
 ### PV
@@ -132,9 +124,9 @@ Noah Frater:Johnny Harris\
 Michael Parkes:Sam Keeley\
 Frankie Maguire:Joe Dempsie\
 
-## Morbius モービウス
+## Morbius
 ```
-日本語版視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 ### PV
 [予告5](https://youtu.be/UqQLsZEwyic)\
@@ -145,9 +137,9 @@ Dr.Michael Morbius:Jared Leto\
 Lucien/Milo Morbius:Matt Smith\
 Dr.Martine Bancroft:Adria Arjona
 
-## ザ・マミー／呪われた砂漠の王女
+## The Mummy
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
 ### Character

@@ -4,9 +4,9 @@ date = 2024-06-13T13:56:43+09:00
 draft = false
 +++
 
-## The Spiderwick Chronicles スパイダーウィック家の謎
+## The Spiderwick Chronicles
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
 
 ### Character
@@ -25,8 +25,9 @@ Mallory Grace : Sarah Bolger\
 
 ## Super Mario Bros Movie
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
+
 ### Character
 Mario(CV:Chris Pratt)\
 Princess Peach(CV:Anya Taylor-Joy)\

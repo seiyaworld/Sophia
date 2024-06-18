@@ -7,8 +7,9 @@ draft = false
 
 ## Ready Player 1
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
+
 ### Cast
 Wade Watts : Tye Sheridan\
 Samantha Cook : Olivia Cooke\
@@ -26,10 +27,10 @@ Toshiro : Win Morisaki
 
 ## 竜とそばかすの姫
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
-  
+
 ### PV
 [予告1](https://youtu.be/hM8T-6OvWpo)\
 [予告2](https://youtu.be/KNynvdKvLc8)\

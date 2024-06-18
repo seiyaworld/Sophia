@@ -4,17 +4,17 @@ date = 2024-06-13T11:45:33+09:00
 draft = false
 +++
 
-## The Lost World: Jurassic World(ロストワールド/ジュラシック・パーク)
+## The Lost World: Jurassic World
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```
   
   
   
 
-## ルパン三世 THE FIRST
+## Lupin Ⅲ: THE FIRST
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
 ### PV
@@ -27,9 +27,9 @@ draft = false
   
   
 
-## ルパン三世VSCATSEYE
+## Lupin the 3rd VS CAT'S EYE
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
 ### PV

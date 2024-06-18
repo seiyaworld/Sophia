@@ -5,9 +5,9 @@ draft = false
 +++
 
 
-## Oblivion オブリビオン
+## Oblivion
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitle version(AmazonPrime).
 ```  
 
 ### PV
@@ -19,9 +19,9 @@ Victoria "Vika" Olsen:Andrea Riseborough\
 Julia Rusakova Harper:Olga Kurylenko
 
   
-## ONE PIECE(2000年の映画)
+## ONE PIECE(2000)
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
 ### Character
@@ -31,9 +31,9 @@ Julia Rusakova Harper:Olga Kurylenko
 エルドラゴ\
 ゴラス\
   
-## ONE PIECE エピソードオブアラバスタ 砂漠の王女と海賊たち
+## ONE PIECE Episode of Alabasta: The Desert Princess and the Pirates 
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
   
 ### Music
@@ -42,9 +42,9 @@ Julia Rusakova Harper:Olga Kurylenko
   
   
 
-## ONE PIECE 珍獣島のチョッパー王国
+## ONE PIECE Chopper's Kingdom on the Island of Strange Animals(珍獣)
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 
 ### Music
@@ -52,9 +52,10 @@ DASEIN / まぶしくて\
 [DASEIN / まぶしくて](https://www.youtube.com/watch?v=Os17Y1E7JD8)
 
 
-### ONEPIECE ねじまき島の冒険
+### ONE PIECE: Clockwork(ねじまき) Island Adventure
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
+
 ```
 
 ### Character
@@ -62,3 +63,21 @@ DASEIN / まぶしくて\
 アキース\
 ベアキング\
 ハニークイーン
+
+## ONE PIECE: Dead End Adventure
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+### Music
+BUMO OF CHICKEN 「sailing day」\
+[BUMP OF CHICKEN「sailing day」 ](https://www.youtube.com/watch?v=F9L7QAL5m5g)
+
+## 劇場版総集編オーバーロード 不死者の王【不死者の王】
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+
+## 劇場版総集編オーバーロード 漆黒の英雄【後編】
+```
+Completed watching the Japanese version(AmazonPrime).
+```

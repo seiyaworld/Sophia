@@ -4,9 +4,9 @@ date = 2024-06-13T10:44:20+09:00
 draft = false
 +++
 
-## Alita: Battle Angel アリータ: バトルエンジェル
+## Alita: Battle Angel
 ```
-字幕版視聴完了(AmazonPrime)
+Completed watching the subtitled version(AmazonPrime).
 ```
 ### PV
 [本予告日本語吹替え編](https://youtu.be/SJCZrIcsoak)\

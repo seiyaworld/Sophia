@@ -6,7 +6,7 @@ draft = false
 
 ## 僕のヒーローアカデミア The MOVIE WORLD HEROES MISSION
 ```
-日本語視聴完了(AmazonPrime)
+Completed watching the Japanese version(AmazonPrime).
 ```
 ### PV
 [予告](https://youtu.be/by9Nk2A1y20)\
