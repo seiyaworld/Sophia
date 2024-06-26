@@ -1,9 +1,17 @@
 +++
-title = 'K'
+title = 'KL'
 date = 2024-06-13T11:34:04+09:00
 draft = false
 +++
 
+{{% expand "K" %}}
+
+| Name               | Completed                      | Comment |
+| ------------------ | ------------------------------ | ------- |
+| かがみの孤城             | the Japanese version(金曜ロードショー) |         |
+| Kong: Skull Island | subtitle version(AmazonPrime)  |         |
+
+{{% /expand %}}
 
 ## かがみの孤城
 ```
@@ -61,3 +69,49 @@ Houston Brooks : Corey Hawkins\
 Glenn Mills : Jason Mitchell\
 Earl Cole : Shea Whigham\
 Reg Slivko : Thomas Mann\
+
+
+
+{{% expand "" %}}
+
+| Name                           | Completed                     | Comment |
+| ------------------------------ | ----------------------------- | ------- |
+| The Lost World: Jurassic World | subtitle version(AmazonPrime) |         |
+
+{{% /expand %}}
+
+  
+  
+  
+
+## Lupin Ⅲ: THE FIRST
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+
+### PV
+[予告](https://youtu.be/Uw7jrQQK3Mc)\
+[予告2](https://youtu.be/OIzHw0gVB0g)\
+[特報](https://youtu.be/fLFEbkx6m9s)
+
+### Music
+[GIFT feat. 稲泉りん](https://www.youtube.com/watch?v=GrSM5tOyHRU)
+  
+  
+
+## Lupin the 3rd VS CAT'S EYE
+```
+Completed watching the Japanese version(AmazonPrime).
+```
+
+### PV
+[予告](https://www.youtube.com/watch?v=aMCayewi6Z8)
+
+
+
+{{% expand "" %}}
+
+| Name           | Completed                     | Comment |
+| -------------- | ----------------------------- | ------- |
+
+{{% /expand %}}
