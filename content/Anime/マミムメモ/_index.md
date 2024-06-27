@@ -1,5 +1,5 @@
 +++
-title = 'マ'
+title = 'M'
 date = 2024-06-12T16:53:56+09:00
 draft = false
 +++

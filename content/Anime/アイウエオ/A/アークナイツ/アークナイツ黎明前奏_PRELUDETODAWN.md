@@ -3,10 +3,13 @@ title = "アークナイツ 黎明前奏_PRELUDE TO DAWN"
 +++
 
 
-![200](arknights_season1.avif)
+{{% notice style="secondary" title="Completed watching" %}}
+```
+Episode1-8(AmazonPrime)
+```
+{{% /notice %}}
 
 
-> [! check] Completed watching Episode1-8(AmazonPrime).
 
 ### PV
 | PV                                                                    |
@@ -61,7 +64,10 @@ title = "アークナイツ 黎明前奏_PRELUDE TO DAWN"
 | [MISHA ミーシャ](https://arknights-anime.jp/character/Misha)                          |
 ### Music
 #### OP : Alive
-[No Credit OP](https://seiyaworld.github.io/video01/arknights1_op.mp4)
+[No Credit OP](https://youtu.be/1XKJqBrhyeE?si=GpzU8XSZQhlVEjVT)
+{{<youtube 1XKJqBrhyeE>}}
+
 
 #### ED : BE ME
-[No Credit ED](https://seiyaworld.github.io/video01/arknights1_ed.mp4)
+[No Credit ED](https://youtu.be/wEjfXC5er5Q?si=3EQuEpzOB0YY4DJ6)
+{{<youtube wEjfXC5er5Q>}}
