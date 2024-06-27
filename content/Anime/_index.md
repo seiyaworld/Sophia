@@ -19,7 +19,7 @@ draft = false
 
 
 
-#### [ア(11)](./アイウエオ/ア)
+#### [ア(11)](content/Anime/アイウエオ/_index.md)
 1. <font color="#0070c0">アークナイツ 黎明前奏/PRELUDE TO DAWN</font>
 2. <font color="#0070c0">アークナイツ 冬隠帰路/PERISH IN FROST</font>
 3. 赤髪の白雪姫
