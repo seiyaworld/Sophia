@@ -2,6 +2,10 @@
 title="ありふれた職業で世界最強Season2"
 +++
 
+
+![|200](https://cs1.animestore.docomo.ne.jp/anime_kv/img/25/18/2/25182_1_9_8b.png?1638419407000)
+[dアニメストア](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimestore.docomo.ne.jp%2Fanimestore%2Fci%3FworkId%3D25182&psig=AOvVaw3v61X-YoOXN-WLpXPO15TB&ust=1720685535192000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjUpbKDnIcDFQAAAAAdAAAAABAE)より引用
+
 ### PV
 | PV                                                    |
 | ----------------------------------------------------- |

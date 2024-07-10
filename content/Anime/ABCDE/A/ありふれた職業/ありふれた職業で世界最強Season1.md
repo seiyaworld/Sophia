@@ -2,6 +2,8 @@
 title="ありふれた職業で世界最強 Season1"
 +++
 
+![|200](https://cs1.animestore.docomo.ne.jp/anime_kv/img/22/83/4/22834_1_9_8b.png?1560306633000)
+[dアニメストア](https://cs1.animestore.docomo.ne.jp/anime_kv/img/22/83/4/22834_1_9_8b.png?1560306633000)より引用
 
 ### PV
 | PV                                                                             |

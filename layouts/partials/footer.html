@@ -1,0 +1,16 @@
+        </div>
+      </main><!-- #R-body-inner -->
+{{- partial "custom-comments.html" . }}
+    </div><!-- #R-body -->
+{{- $outputFormat := partial "output-format.hugo" .Page }}
+{{- partial "output-partial.hugo" (dict "base" "menu" "page" . "parameter" . "outputFormat" $outputFormat) }}
+    <script src="{{"js/clipboard.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" defer></script>
+    <script src="{{"js/perfect-scrollbar.min.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" defer></script>
+{{- partial "dependencies.html" (dict "page" . "location" "footer" "outputFormat" $outputFormat) }}
+    <script src="{{"js/theme.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" defer></script>
+{{- partial "custom-footer.html" . }}
+<!-- Cloudflare Web Analytics -->
+ <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "c153e54bf22548238fc3cd61da85ab6b"}'></script>
+ <!-- End Cloudflare Web Analytics -->
+  </body>
+</html>

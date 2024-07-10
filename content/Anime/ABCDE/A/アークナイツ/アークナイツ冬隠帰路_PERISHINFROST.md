@@ -3,11 +3,10 @@ title = "アークナイツ 冬隠帰路_PERISH IN FROST"
 draft = false
 +++
 
-{{% notice  secondary"Completed watching " %}}
-```
-Episode1-8(9-16)(AmazonPrime).
-```
-{{% /notice %}}
+![|200](https://webusstatic.yo-star.com/ark_anime_upload/prod/8Nmhjl6O.png)
+[公式サイト](https://www.google.com/url?sa=i&url=https%3A%2F%2Farknights-anime.jp%2Fnews%2F8&psig=AOvVaw0bMoxzpNy_Bka2yxnPXxpC&ust=1720684511243000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCJzsT_m4cDFQAAAAAdAAAAABAE)より引用
+
+<div style="margin: 10px 0; border-left: 5px solid #007BFF; border-radius: 5px; overflow: hidden; font-family: Arial, sans-serif;"> <div style="background-color: #007BFF; color: #ffffff; padding: 5px 10px; font-weight: normal; font-size: 14px;"> Completed watching </div> <div style="background-color: #e7f3fe; color: #084298; padding: 10px;"> <p style="margin: 0;">Episode1-8(9-16)(AmazonPrime).</p> </div> </div>
 
 
 ### PV

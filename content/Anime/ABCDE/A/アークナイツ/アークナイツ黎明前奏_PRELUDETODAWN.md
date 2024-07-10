@@ -2,12 +2,10 @@
 title = "アークナイツ 黎明前奏_PRELUDE TO DAWN"
 +++
 
+![|200](https://pbs.twimg.com/media/Fgu5PbbVUAEKGNt.jpg)
+[公式サイト](https://pbs.twimg.com/media/Fgu5PbbVUAEKGNt.jpg)より引用
 
-{{% notice style="secondary" title="Completed watching" %}}
-```
-Episode1-8(AmazonPrime)
-```
-{{% /notice %}}
+<div style="margin: 10px 0; border-left: 5px solid #007BFF; border-radius: 5px; overflow: hidden; font-family: Arial, sans-serif;"> <div style="background-color: #007BFF; color: #ffffff; padding: 5px 10px; font-weight: normal; font-size: 14px;"> Completed watching </div> <div style="background-color: #e7f3fe; color: #084298; padding: 10px;"> <p style="margin: 0;">Episode1-8(AmazonPrime)</p> </div> </div>
 
 
 
