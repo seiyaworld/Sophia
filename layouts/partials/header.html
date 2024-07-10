@@ -49,6 +49,13 @@
     {{- partial "stylesheet.html" (dict "page" . "outputFormat" $outputFormat) }}
     {{- partial "dependencies.html" (dict "page" . "location" "header" "outputFormat" $outputFormat) }}
     {{- partial "custom-header.html" . }}
+    <!-- Google tag (gtag.js) -->
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-46RS6V1DBM"></script>
+     <script>window.dataLayer = window.dataLayer || [];
+     function gtag(){dataLayer.push(arguments);}
+     gtag('js', new Date());
+     gtag('config', 'G-46RS6V1DBM');
+     </script>
      </head>
   <body class="mobile-support {{ $outputFormat }}{{- if .Site.Params.disableInlineCopyToClipBoard }} disableInlineCopyToClipboard{{ end }}{{- if .Site.Params.disableHoverBlockCopyToClipBoard }} disableHoverBlockCopyToClipBoard{{ end }}" data-url="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .) }}">
     <div id="R-body" class="default-animation">
