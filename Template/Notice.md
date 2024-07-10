@@ -1,3 +1,1 @@
-{{% notice style="secondary" title="" %}}
-
-{{% /notice %}}
+<div style="margin: 10px 0; border-left: 5px solid #007BFF; border-radius: 5px; overflow: hidden; font-family: Arial, sans-serif;"> <div style="background-color: #007BFF; color: #ffffff; padding: 5px 10px; font-weight: normal; font-size: 14px;"> 注意 </div> <div style="background-color: #e7f3fe; color: #084298; padding: 10px;"> <p style="margin: 0;">これは重要な情報です。注意してください。</p> </div> </div>

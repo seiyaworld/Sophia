@@ -21,10 +21,7 @@
     {{- $link := "<link href=\"%s\" rel=\"%s\" type=\"%s\" title=\"%s\">" }}
     {{- $title := partial "pageHelper/title.hugo" (dict "page" . "fullyQualified" true "reverse" true "format" $format "outputFormat" $outputFormat) }}
     <title>{{ $title }}</title>
-    <link rel="stylesheet" href="/css/lite-yt-embed.css">
-    <script src="/js/lite-yt-embed.js"></script>
-    <link rel="stylesheet" href="css/lite-yt-embed.css">
-    <script src="js/lite-yt-embed.js"></script>
+
 
     {{- if .IsTranslated -}}
       {{- range $index, $trans := .AllTranslations }}

@@ -5,4 +5,11 @@ theme = 'hugo-theme-relearn'
 
 [params]
 ordersectionsby = "title"
-customCSS = ["/css/lite-yt-embed.css"] 
+
+collapsibleMenu = true
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
