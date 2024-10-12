@@ -2,6 +2,14 @@
 title="痛いのは嫌なので防御力に極振りしたいと思います。Season2"
 +++
 
+![|200](https://cs1.animestore.docomo.ne.jp/anime_kv/img/25/96/1/25961_1_9_8b.png?1671165007829)
+[dアニメストア](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimestore.docomo.ne.jp%2Fanimestore%2Fci%3FworkId%3D25961&psig=AOvVaw0H7KpERXICHjvgwgxi4PYO&ust=1720780426537000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDJrfDknocDFQAAAAAdAAAAABAK)より引用
+
+> 感想  
+> 1. 3ギルド協力は激アツ過ぎた！
+> 2. 楓の木まじで化け物・奇怪集団だわ(特にメイプル)
+> 3. 2期でもスレ(チャット)がいい味出してる。僕もこの世界にいたら絶対書き込むww
+
 #### PV
 [PV第1弾](https://youtu.be/-tAaJ7hsas0?si=TLOiSbU99SXcLZeV)\
 [PV第2弾](https://www.youtube.com/watch?v=mgHnA7ZV8tM)

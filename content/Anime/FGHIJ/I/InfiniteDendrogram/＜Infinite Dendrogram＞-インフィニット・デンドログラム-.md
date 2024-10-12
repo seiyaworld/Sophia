@@ -2,6 +2,10 @@
 title="＜Infinite Dendrogram＞-インフィニット・デンドログラム-"
 +++
 
+![|200](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd8tyNSt39aw-Ya5mbyD5rgApMNnUzFxmBKg&s)
+[公式](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdendro-anime.jp%2F&psig=AOvVaw39umBKllosG6KA-oEnYT5W&ust=1720779363425000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC89-rgnocDFQAAAAAdAAAAABAJ)より引用
+
+
 #### PV
 [第1弾PV](https://youtu.be/kQzpf53SjN8?si=faY6Kha2GXx7KcmV)\
 [第2弾PV](https://www.youtube.com/watch?v=ESwp36zs30g)

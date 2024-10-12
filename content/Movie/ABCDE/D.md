@@ -19,11 +19,25 @@ the Japanese version(AmazonPrime)
 {{% /notice %}}
 
 ## Dune 砂の惑星
-{{% notice style="secondary" title="Completed watching" %}}
-```
-the Japanese version(AmazonPrime)
-```
-{{% /notice %}}
+
+{{% expand "Detail" %}}
+
+> ![|200](https://wwws.warnerbros.co.jp/dune-movie/1/img/share2.jpg)
+> [公式](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwwws.warnerbros.co.jp%2Fdune-movie%2F1%2F&psig=AOvVaw1DdBOw16NzwHcdBdp4zz0s&ust=1721816902307000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiRo_n5vIcDFQAAAAAdAAAAABAJ)より引用
+
+
+<div style="margin: 10px 0; border-left: 5px solid #007BFF; border-radius: 5px; overflow: hidden; font-family: Arial, sans-serif;"> <div style="background-color: #007BFF; color: #ffffff; padding: 5px 10px; font-weight: normal; font-size: 14px;"> Completed watching </div> <div style="background-color: #e7f3fe; color: #084298; padding: 10px;"> <p style="margin: 0;">the Japanese version(AmazonPrime)</p> </div> </div>
+
+> 感想  
+> 1. 壮大な世界観に引き込まれた(少し難しい)
+> 2. BGMと教皇が不気味
+> 3. 主人公がイケメン(インタビュー動画見るとさらに好きになる)
+
+
+| 2021    |
+| ------- |
+| US      |
+| English |
 
 ### PV
 [US予告1](https://youtu.be/npl8ogM704A)\
@@ -46,3 +60,4 @@ Leto Atreides:Oscar Isaac \
 [キャストQ&A映像](https://youtu.be/YOSy2gqoIdM)\
 [特別映像2](https://youtu.be/fFSO1PXi5XU)
 
+{{% /expand %}}

@@ -2,6 +2,15 @@
 title="痛いのは嫌なので防御力に極振りしたいと思います。Season1"
 +++
 
+![|200](https://cs1.animestore.docomo.ne.jp/anime_kv/img/23/12/6/23126_1_9_8b.png?1575598181000)
+[dアニメストア](https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimestore.docomo.ne.jp%2Fanimestore%2Fci%3FworkId%3D23126&psig=AOvVaw0H7KpERXICHjvgwgxi4PYO&ust=1720780426537000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDJrfDknocDFQAAAAAdAAAAABAE)より引用
+
+> 感想 
+> 1. コンセプトが斬新で面白い(ゲーム系は面白くするの難しいのに)
+> 2. メイプルがもうカオス、想像がつかない🤷‍♂️
+> 3. あと地味にスレ(チャット)のところ好きです！面白いww
+
+
 
 #### PV
 [ティザーPV](https://www.youtube.com/watch?v=AODnWIirajU)\

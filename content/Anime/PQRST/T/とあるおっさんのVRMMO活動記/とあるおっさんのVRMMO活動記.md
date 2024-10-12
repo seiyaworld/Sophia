@@ -7,6 +7,12 @@ title="とあるおっさんのVRMMO活動記"
 Completed watching Episode1-12(AmazonPrime).
 ```
 
+> 感想  
+> 1. 完成度としては悪い作品だった
+> 2. 作画が悪い
+> 3. ストーリーの盛り上がりがない
+
+
 ### PV
 [PV第1弾](https://youtu.be/77WX-vYqWJo)\
 [PV第2弾](https://youtu.be/Cqwf25EBp3w)\

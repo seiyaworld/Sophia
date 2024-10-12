@@ -1,22 +1,24 @@
 +++
-title = 'Anime'
+title = '🗡 Anime'
 date = 2024-06-10T20:18:05+09:00
 draft = false
 +++
 
 ここでは視聴した作品を並べています。  
-僕は大のアニメ好きです。視聴した作品の情報をwikiのようにまとめるくらいです(こっちは画像や動画使いまくりで著作権的に公開は出来ません)。
+まとめる内容はStory,Music,PV,Character(一部)などです。ただし、著作権侵害回避のため詳細は外部サイトに任せます。  
+
+## My Goal
+<div style="margin: 10px 0; border-left: 5px solid #00BFFF; border-radius: 5px; overflow: hidden; font-family: Arial, sans-serif;"><div style="background-color: #00BFFF; color: #ffffff; padding: 5px 10px; font-weight: normal; font-size: 14px;"> My Goal </div><div style="background-color: #D0F0FF; color: #084298; padding: 10px;"><p style="margin: 0;">アニメを1000作品視聴する!</p></div></div>
 
 
 {{% notice style="secondary" title="Total" %}}
-アニメ視聴数 : 242作品  
-※2,3期などは別作品としている。
+アニメ視聴数 : 250作品  
+※2,3期などは別作品としている。  
 {{% /notice %}}
 
 ```
 視聴履歴確認できるものは青色
 ```
-
 
 
 ### [A(11)](abcde/_index)
@@ -41,23 +43,24 @@ draft = false
 1. <font color="#0070c0">C</font>
 2. CODE:BREAKER
 3. チェンソーマン
-### [D(16)](ABCDE/_index.md)
+### [D(17)](ABCDE/_index.md)
 1. <font color="#0070c0">ダーウィンズゲーム</font>
 2. <font color="#0070c0">ダークギャザリング</font>
 3. DARKER THAN BLACK ー黒の契約者ー
 4. <font color="#0070c0">ダンジョンに出会いを求めるのは間違っているだろうか</font>
 5. <font color="#0070c0">ダンジョンに出会いを求めるのは間違っているだろうかⅡ</font>
 6. <font color="#0070c0">ダンジョンに出会いを求めるのは間違っているだろうかⅢ</font>
-7. 出会って5秒でバトル
-8. ディープインサニティ・ザ・ロストチャイルド
-9. デート・ア・ライブ
-10. <font color="#0070c0">デカダンス</font>
-11. デスマーチからはじまる異世界狂想曲
-12. <font color="#0070c0">デッドマウント・デスプレイ</font>
-13. 伝説の勇者の伝説
-14. ド級編隊エグゼロス
-15. Dr.STONE
-16. Dr.STONE STONE WARS
+7. <font color="#0070c0">ダンジョンの中の人</font>
+8. 出会って5秒でバトル
+9. ディープインサニティ・ザ・ロストチャイルド
+10. デート・ア・ライブ
+11. <font color="#0070c0">デカダンス</font>
+12. デスマーチからはじまる異世界狂想曲
+13. <font color="#0070c0">デッドマウント・デスプレイ</font>
+14. 伝説の勇者の伝説
+15. ド級編隊エグゼロス
+16. Dr.STONE
+17. Dr.STONE STONE WARS
 ### [E(5)](ABCDE/_index.md)
 1. 英雄王、武を極めるため転生す
 2. <font color="#0070c0">英雄教室</font>
@@ -84,18 +87,19 @@ draft = false
 8. <font color="#0070c0">グレイプニル</font>
 9. 五等分の花嫁
 
-### [H(9)](FGHIJ/_index.md)
+### [H(10)](FGHIJ/_index.md)
 1. ハイスクールD×D
 2. 灰と幻想のグリムガル
 3. 薄桜鬼
-4. <font color="#0070c0">八男って、それはないでしょう</font>
-5. <font color="#0070c0">悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。</font>
-6. <font color="#0070c0">100万の命の上に俺は立っている</font>
-7. 百錬の覇王と聖約の戦乙女
-8. 冰剣の魔術師が世界を統べる
-9. 不徳のギルド
+4. <font color="#0070c0">ハズレ枠の【状態異常スキル】で最強になった俺がすべてを蹂躙するまで</font>
+5. <font color="#0070c0">八男って、それはないでしょう</font>
+6. <font color="#0070c0">悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。</font>
+7. <font color="#0070c0">100万の命の上に俺は立っている</font>
+8. 百錬の覇王と聖約の戦乙女
+9. 冰剣の魔術師が世界を統べる
+10. 不徳のギルド
 
-### [I(12)](FGHIJ/_index.md)
+### [I(13)](FGHIJ/_index.md)
 1. <font color="#0070c0">異世界召喚は二度目です</font>
 2. 異世界チート魔術師
 3. <font color="#0070c0">異世界でチート能力を手にした俺は、現実世界をも無双する ~レベルアップは人生を変えた~</font>
@@ -104,10 +108,11 @@ draft = false
 6. 異世界魔王と召喚少女の奴隷魔術
 7. 異世界魔王と召喚少女の奴隷魔術Ω
 8. 異世界薬局
-9. <font color="#0070c0">異世界ワンターンキル姉さん</font>
-10. <font color="#0070c0">痛いのは嫌なので防御力に極振りしたいと思います。Season1</font>
-11. <font color="#0070c0">痛いのは嫌なので防御力に極振りしたいと思います。Season2</font>
-12. <font color="#0070c0">＜Infinite Dendrogram＞-インフィニット・デンドログラム-</font>
+9. <font color="#0070c0">異世界ゆるり紀行～子育てしながら冒険者します～</font>
+10. <font color="#0070c0">異世界ワンターンキル姉さん</font>
+11. <font color="#0070c0">痛いのは嫌なので防御力に極振りしたいと思います。Season1</font>
+12. <font color="#0070c0">痛いのは嫌なので防御力に極振りしたいと思います。Season2</font>
+13. <font color="#0070c0">＜Infinite Dendrogram＞-インフィニット・デンドログラム-</font>
 
 
 ### [J(5)](FGHIJ/_index.md)
@@ -186,37 +191,40 @@ draft = false
 4. ノーゲーム・ノーライフ
 5. <font color="#0070c0">望まぬ不死の冒険者</font>
 
-### [O(12)](KLMNO/_index.md)
+### [O(14)](KLMNO/_index.md)
 1. オーバーロード
 2. オーバーロードⅡ
 3. オーバーロードⅢ
 4. オーバーロードⅣ
-5. <font color="#0070c0">推しの子</font>
-6. 乙女ゲー世界はモブに厳しい世界です
-7. オリエント
-8. オリエント 淡路島激闘編
-9. 俺だけ入れる隠しダンジョン
-10. <font color="#0070c0">俺だけレベルアップな件</font>
-11. 終わりのセラフ
-12. 終わりのセラフ 名古屋決戦編
+5. <font color="#0070c0">おかしな転生</font>
+6. <font color="#0070c0">推しの子</font>
+7. 乙女ゲー世界はモブに厳しい世界です
+8. オリエント
+9. オリエント 淡路島激闘編
+10. 俺だけ入れる隠しダンジョン
+11. <font color="#0070c0">俺だけレベルアップな件</font>
+12. <font color="#0070c0">俺は全てをパリィする</font>
+13. 終わりのセラフ
+14. 終わりのセラフ 名古屋決戦編
 
 ### [P(2)](PQRST/_index.md)
 1. <font color="#0070c0">プランダラ</font>
 2. ペルソナ4
 
-### [R(12)](PQRST/_index.md)
+### [R(13)](PQRST/_index.md)
 1. 落第騎士の英雄譚
 2. <font color="#0070c0">ラグナクリムゾン</font>
 3. <font color="#0070c0">ラディアン Season1</font>
 4. <font color="#0070c0">ラディアン Season2</font>
-5. <font color="#0070c0">Re:CREATORS</font>
-6. <font color="#0070c0">Re:ゼロから始める異世界生活 Season1</font>
-7. Re:ゼロから始める異世界生活 Season2
-8. 老後に備えて異世界で８万枚の金貨を貯めます
-9. ロード・エルメロイⅡ世の事件簿 ー魔眼蒐集列車 Grace noteー
-10. ロクでなし魔術講師と禁忌教典
-11. ログ・ホライズン
-12. 六花の勇者
+5. <font color="#0070c0">龍族</font>
+6. <font color="#0070c0">Re:CREATORS</font>
+7. <font color="#0070c0">Re:ゼロから始める異世界生活 Season1</font>
+8. Re:ゼロから始める異世界生活 Season2
+9. 老後に備えて異世界で８万枚の金貨を貯めます
+10. ロード・エルメロイⅡ世の事件簿 ー魔眼蒐集列車 Grace noteー
+11. ロクでなし魔術講師と禁忌教典
+12. ログ・ホライズン
+13. 六花の勇者
 
 ### [S(35)](PQRST/_index.md)
 1. 斉木楠雄のΨ難
@@ -255,7 +263,7 @@ draft = false
 
 
 
-### [T(28)](PQRST/_index.md)
+### [T(29)](PQRST/_index.md)
 1. 対魔導学園35試験小隊
 2. takt op.Destiny
 3. 盾の勇者の成り上がり
@@ -266,33 +274,35 @@ draft = false
 8. 超人高校生たちは異世界でも余裕で生き抜くようです！
 9. 月が導く異世界道中 第一幕
 10. <font color="#0070c0">月が導く異世界道中 第二幕</font>
-11. 天空侵犯
-12. <font color="#0070c0">転生王女と天才令嬢の魔法革命</font>
-13. <font color="#0070c0">転生貴族、鑑定スキルで成り上がる</font>
-14. <font color="#0070c0">転生貴族の異世界冒険録</font>
-15. 転生賢者の異世界ライフ
-16. 転生したらスライムだった件
-17. 転生したらスライムだった件 Season2
-18. <font color="#0070c0">転生したらスライムだった件 コリウスの夢</font>
-19. 転生したらスライムだった件 転スラ日記
-20. <font color="#0070c0">とあるおっさんのVRMMO活動記</font>
-21. とある科学の超電磁砲
-22. とある魔術の禁書目録
-23. 東京喰種
-24. <font color="#0070c0">東京レイヴンズ</font>
-25. 東京リベンジャーズ
-26. <font color="#0070c0">The New GATE</font>
-27. <font color="#0070c0">TRIGUN STAMPEDE</font>
-28. トリニティセブン
+11. <font color="#0070c0">ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～</font>
+12. 天空侵犯
+13. <font color="#0070c0">転生王女と天才令嬢の魔法革命</font>
+14. <font color="#0070c0">転生貴族、鑑定スキルで成り上がる</font>
+15. <font color="#0070c0">転生貴族の異世界冒険録</font>
+16. 転生賢者の異世界ライフ
+17. 転生したらスライムだった件
+18. 転生したらスライムだった件 Season2
+19. <font color="#0070c0">転生したらスライムだった件 コリウスの夢</font>
+20. 転生したらスライムだった件 転スラ日記
+21. <font color="#0070c0">とあるおっさんのVRMMO活動記</font>
+22. とある科学の超電磁砲
+23. とある魔術の禁書目録
+24. 東京喰種
+25. <font color="#0070c0">東京レイヴンズ</font>
+26. 東京リベンジャーズ
+27. <font color="#0070c0">The New GATE</font>
+28. <font color="#0070c0">TRIGUN STAMPEDE</font>
+29. トリニティセブン
 
 ### [V(2)](UVWXYZ/_index.md)
 1. ビルディバイドー#000000ー
 2. ヴァニタスの手記
-### [W(4)](UVWXYZ/_index.md)
+### [W(5)](UVWXYZ/_index.md)
 1. ワールドトリガー
 2. <font color="#0070c0">私、能力は平均値でって言ったよね！</font>
 3. ワンパンマン
 4. ワンパンマン Season2
+5. <font color="#0070c0">ワンルーム、日当たり普通、天使つき。</font>
 
 ### [Y(9)](UVWXYZ/_index.md)
 1. <font color="#0070c0">約束のネバーランド</font>

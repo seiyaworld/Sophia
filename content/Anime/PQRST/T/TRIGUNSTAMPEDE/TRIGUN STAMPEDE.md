@@ -2,6 +2,12 @@
 title="TRIGUN STAMPEDE"
 +++
 
+> 感想  
+> 1. 世界観・ストーリーの軸が面白い
+> 2. ミリオンズ・ナイブズの戦闘がかっこいい
+> 3. 主人公は優しいけど、見ている側が時々イライラする
+
+
 #### PV
 [メインPV](https://youtu.be/KlJZJWt7fpA)\
 [PV第一弾](https://youtu.be/7bL9RH6kItM)\

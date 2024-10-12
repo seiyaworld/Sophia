@@ -1,4 +1,12 @@
++++
+title="Lv2からチートだった元勇者候補のまったり異世界ライフ"
++++
 
+
+> 感想  
+> 1. フェンリースが可愛いアニメ🐺
+> 2. OPもフェンリースが可愛い
+> 3. ただし、ストーリーに関しては盛り上がりに欠ける
 
 
 ### Story
@@ -14,5 +22,5 @@
 | Episode8  | Unseen Wall([見えざる壁](https://lv2-cheat.com/story/717))                                | [第8話 次回予告](https://youtu.be/3FTLkxgBCqw?si=fOF-2GIPE9LXVY9H) |
 | Episode9  | Wolf and Adventurer([狼と冒険者](https://lv2-cheat.com/story/736))                        | [第9話 次回予告](https://youtu.be/IuxaNmE_6k4?si=yc-_0D_JiVC4PsOg) |
 | Episode10 | A New Housemate([新たな同居人](https://lv2-cheat.com/story/767))                           | [第10話 次回予告](https://www.youtube.com/watch?v=uEYVABkXryI)     |
-| Episode11 |                                                                                      |                                                              |
-| Episode12 |                                                                                      |                                                              |
+| Episode11 | [湯けむり温泉旅行・前編](https://lv2-cheat.com/story/788)                                       | [第11話次回予告](https://youtu.be/17Jaim28sQo?si=SkVbV6-tfDSm_hrw) |
+| Episode12 | [湯けむり温泉旅行・後編](https://lv2-cheat.com/story/808)                                       | [第12話次回予告](https://youtu.be/lFlBj1daa_U?si=7PpFTYLRz8eNCTUs) |

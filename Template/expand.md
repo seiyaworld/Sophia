@@ -1,4 +1,4 @@
-{{% expand "" %}}
+{{% expand "Detail" %}}
 
 
 {{% /expand %}}

@@ -8,6 +8,10 @@ draft = false
 
 <div style="margin: 10px 0; border-left: 5px solid #007BFF; border-radius: 5px; overflow: hidden; font-family: Arial, sans-serif;"> <div style="background-color: #007BFF; color: #ffffff; padding: 5px 10px; font-weight: normal; font-size: 14px;"> Completed watching </div> <div style="background-color: #e7f3fe; color: #084298; padding: 10px;"> <p style="margin: 0;">Episode1-8(9-16)(AmazonPrime).</p> </div> </div>
 
+> 感想  
+> 1. 作画・音楽が1期と引き続き良い
+> 2. ストーリーがさらに重くなる(心がえぐられるがその分素晴らしい)
+> 3. スノーデビル小隊・フロストノヴァ....😱😭😰
 
 ### PV
 | PV                                                     |

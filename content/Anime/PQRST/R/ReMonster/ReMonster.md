@@ -5,6 +5,12 @@ title="ReMonster"
 
 > [! check] Completed watching Episode1-11(AmazonPrime).
 
+
+> 感想  
+> 1. ゴブリン転生ということで結構色々な意味で際どいシーンがあるw
+> 2. ゴブリンからオーガになると普通にかっこいい
+> 3. テンポの速さからか盛り上がりに欠ける
+
 ### Story
 [Official Website](https://re-monster.com/story/)
 
